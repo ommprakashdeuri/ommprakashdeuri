@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey there, I'm Omm Prakash Deuri 👋<br><br>I am an aspiring cybersecurity researcher on a mission to become the world's greatest ethical hacker.<br><br>> *"To Beat a Hacker, You Have To Think Like One."*<br><br> 🎯 Focus Areas<br>* **Offensive Security & Red Teaming**<br>* **Web Application & Network Penetration Testing**<br>* **Reverse Engineering & Vulnerability Research**<br>* **Scripting & Tool Automation (Python / Bash)**
+Hey there, I'm Omm Prakash Deuri 👋<br><br>I am an Aspiring Cybersecurity Researcher on a Mission to Become The World's Greatest Ethical Hacker.<br><br>> *"To Beat a Hacker, You Have To Think Like One."*<br><br> 🎯 Focus Areas<br>* **Offensive Security & Red Teaming**<br>* **Web Application & Network Penetration Testing**<br>* **Reverse Engineering & Vulnerability Research**<br>* **Scripting & Tool Automation (Python / Bash)**
 
 
 # 💻 Tech Stack:
