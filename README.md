@@ -12,9 +12,6 @@ Hey there, I'm Omm Prakash Deuri 👋<br><br>I am an Aspiring Cybersecurity Rese
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=ommprakashdeuri&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ---
 [![](https://komarev.com/ghpvc/?username=ommprakashdeuri&icon=0&color=0)](https://visitcount.itsvg.in)
 
